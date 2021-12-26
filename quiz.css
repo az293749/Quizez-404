@@ -1,0 +1,25 @@
+h2{
+    color: #fff;
+}
+
+label{
+    color: #fff;
+}
+
+body{
+    font-family: 'Roboto' ,sans-serif;
+    background-image: url("D:/OneDrive/Desktop/white-24dp/2x/galaxy.jpg");
+    background-size: cover;
+    position: fixed;
+}
+
+li{
+    list-style-type: none;
+}
+
+button{
+    cursor: pointer;
+    font-family: 'Roboto',sans-serif;
+    padding: 0.24rem;
+}
+
